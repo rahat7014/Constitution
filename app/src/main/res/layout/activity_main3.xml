@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main3Activity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:height="60dp"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:text="Chapter 1" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="পরের জন্মে বয়স যখন ষোলোই সঠিক
+আমরা তখন প্রেমে পড়বো
+মনে থাকবে?
+বুকের মধ্যে মস্তো বড় ছাদ থাকবে
+শীতলপাটি বিছিয়ে দেব;
+সন্ধে হলে বসবো দু’জন।
+একটা দুটো খসবে তারা
+হঠাৎ তোমার চোখের পাতায় তারার চোখের জল গড়াবে,
+কান্ত কবির গান গাইবে
+তখন আমি চুপটি ক’রে দুচোখ ভ’রে থাকবো চেয়ে…
+মনে থাকবে?
+এই জন্মের দূরত্বটা পরের জন্মে চুকিয়ে দেব
+এই জন্মের চুলের গন্ধ পরের জন্মে থাকে যেন
+এই জন্মের মাতাল চাওয়া পরের জন্মে থাকে যেন
+মনে থাকবে?
+আমি হবো উড়নচন্ডি
+এবং খানিক উস্কোখুস্কো
+এই জন্মের পারিপাট্য সবার আগে ঘুচিয়ে দেব
+তুমি কাঁদলে গভীর সুখে
+এক নিমেষে সবটুকু জল শুষে নেব
+মনে থাকবে?
+পরের জন্মে কবি হবো
+তোমায় নিয়ে হাজারখানেক গান বাঁধবো।
+তোমার অমন ওষ্ঠ নিয়ে
+নাকছাবি আর নূপুর নিয়ে
+গান বানিয়ে__
+মেলায় মেলায় বাউল হয়ে ঘুরে বেড়াবো…
+মনে থাকবে
+আর যা কিছু হই বা না হই
+পরের জন্মে তিতাস হবো
+দোল মঞ্চের আবীর হবো
+শিউলিতলার দুর্বো হবো
+শরৎকালের আকাশ দেখার__
+অনন্তনীল সকাল হবো;
+এসব কিছু হই বা না হই
+তোমার প্রথম পুরুষ হবো
+মনে থাকবে?
+পরের জন্মে তুমিও হবে
+নীল পাহাড়ের পাগলা-ঝোরা
+গাঁয়ের পোষাক ছুড়ে ফেলে
+তৃপ্ত আমার অবগাহন।
+সারা শরীর ভ’রে তোমার হীরকচূর্ণ ভালোবাসা।
+তোমার জলধারা আমার অহংকারকে ছিনিয়ে নিল।
+আমার অনেক কথা ছিল
+এ জন্মে তা যায়না বলা
+বুকে অনেক শব্দ ছিল__
+সাজিয়ে গুছিয়ে তবুও ঠিক
+কাব্য করে বলা গেল না!
+এ জন্ম তো কেটেই গেল অসম্ভবের অসঙ্গতে
+পরের জন্মে মানুষ হবো
+তোমার ভালোবাসা পেলে
+মানুষ হবোই__ মিলিয়ে নিও!
+পরের জন্মে তোমায় নিয়ে…
+বলতে ভীষণ লজ্জা করছে
+ভীষণ ভীষণ লজ্জা করছে
+পরের জন্মে তোমায় নিয়ে…"
+
+                android:textSize="25dp"
+                android:layout_margin="10dp"
+                android:textAlignment="center"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</LinearLayout>

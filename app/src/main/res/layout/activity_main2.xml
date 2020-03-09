@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:layout_margin="20dp"
+        android:text="Chapter 1"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:layout_margin="20dp"
+        android:text="Chapter 2"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:layout_margin="20dp"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:text="Chapter 3"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:layout_margin="20dp"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:text="Chapter 4"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:layout_margin="20dp"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:text="Chapter 5"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:layout_margin="20dp"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:text="Chapter 6"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:layout_margin="20dp"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:text="Chapter 7"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:width="30dp"
+        android:padding="5px"
+        android:layout_margin="20dp"
+        android:background="#061805"
+        android:textColor="#ecf7eb"
+        android:textSize="20dp"
+        android:text="Chapter 8"/>
+
+
+
+</LinearLayout>
